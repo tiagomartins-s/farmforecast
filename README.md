@@ -23,7 +23,7 @@ Todo o passo a passo da solução, incluindo a **análise exploratória dos dado
 Para explorar o projeto, você precisará apenas de:
 - Um **navegador com acesso à internet** (o notebook roda no **Google Colab**, sem necessidade de instalação local).
 
-Link do video do projeto de dados:
+## Link do video do projeto de dados:
 
 - https://youtu.be/8VNuVKvOpV0
 
@@ -53,7 +53,7 @@ Utilizamos o **Amazon EC2** como núcleo da infraestrutura, integrado a outros s
 ## 🔎 Conclusão
 A escolha da **AWS** e do **EC2** oferece uma base sólida e flexível para nosso projeto, garantindo **eficiência e inovação** na implementação da IA para o setor agrícola. 🚀🌱
 
-Link do video de estimativas de custo na AWS:
+## Link do video de estimativas de custo na AWS:
 
 - https://youtu.be/H9QCBuNMgvs
 
